@@ -11,8 +11,7 @@ import androidx.core.content.res.ResourcesCompat
 import com.zxb.functionset.R
 
 /**
- * @author:张小兵
- * @e-mail:460116602@qq.com
+ * @author:zxb
  * @date:2024/08/09
  */
 open class StatusBar_BaseActivity : AppCompatActivity() {
