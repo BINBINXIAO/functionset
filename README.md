@@ -10,4 +10,4 @@
   ![image](https://github.com/BINBINXIAO/functionset/blob/master/preview_image_folder/src/main/res/drawable-xhdpi/icon_statusbar.png)
   ``
   <img src="https://github.com/BINBINXIAO/functionset/blob/master/preview_image_folder/src/main/res/drawable-xhdpi/icon_statusbar.png" 
-    width="200" height="200"/>
+    width="100%" height="200"/>
