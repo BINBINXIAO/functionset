@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="title" type="id" />
+    <item name="title_bar" type="id" />
+    <item name="left_img" type="id" />
+    <item name="left_text" type="id" />
+    <item name="right_img" type="id" />
+    <item name="left_area" type="id" />
+    <item name="right_area" type="id" />
+
+    <item name="head_image" type="id" />
+    <item name="head_state" type="id" />
+
+    <item name="container" type="id" />
+    <item name="slide" type="id" />
+
+    <item name="state_head" type="id" />
+
+    <item name="indexBar" type="id" />
+    <item name="gap_click" type="id" />
+    <!-- base preference -->
+    <item name="preference_title" type="id" />
+    <item name="preference_summary" type="id" />
+    <item name="preference_accessory" type="id" />
+    <item name="preference_image" type="id" />
+    <item name="preference_image_tip" type="id" />
+
+    <item name="vo_item_click_id" type="id" />
+    <item name="vo_item_long_click_id" type="id" />
+    <item name="vo_item_selectable_text" type="id" />
+    <item name="vo_item_checked" type="id" />
+    <item name="vo_item_click_more" type="id" />
+
+    <item name="water_flow_view" type="id"/>
+    <item name="qrcode_img_id" type="id"/>
+
+    <item name="iv_gallery_download" type="id"/>
+    <item name="iv_gallery_grid" type="id"/>
+    <item name="header_statu_bar" type="id"/>
+
+</resources>
